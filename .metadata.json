@@ -1,0 +1,14 @@
+[
+  {
+    "package": "antitrust",
+    "oncran": true
+  },
+  {
+    "package": "competitiontoolbox",
+    "oncran": true
+  },
+  {
+    "package": "trade",
+    "oncran": true
+  }
+]
