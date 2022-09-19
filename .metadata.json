@@ -6,5 +6,9 @@
   {
     "package": "competitiontoolbox",
     "oncran": true
+  },
+  {
+    "package": "trade",
+    "oncran": true
   }
 ]
