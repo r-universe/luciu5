@@ -13,8 +13,3 @@
 	url = https://github.com/luciu5/competitiontoolbox
 	shallow = true
 	registered = true
-[submodule "trade"]
-	path = trade
-	url = https://github.com/luciu5/trade
-	shallow = true
-	registered = true
