@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "competitiontoolbox"]
-	path = competitiontoolbox
-	url = https://github.com/luciu5/competitiontoolbox
-	shallow = true
-	registered = true
 [submodule "antitrust"]
 	path = antitrust
 	url = https://github.com/luciu5/antitrust
+	shallow = true
+	registered = true
+[submodule "competitiontoolbox"]
+	path = competitiontoolbox
+	url = https://github.com/luciu5/competitiontoolbox
 	shallow = true
 	registered = true
 [submodule "trade"]

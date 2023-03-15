@@ -1,10 +1,10 @@
 [
   {
-    "package": "competitiontoolbox",
+    "package": "antitrust",
     "oncran": true
   },
   {
-    "package": "antitrust",
+    "package": "competitiontoolbox",
     "oncran": true
   },
   {
