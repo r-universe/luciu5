@@ -7,11 +7,25 @@
     "from": "competitiontoolbox"
   },
   {
+    "package": "antitrust",
+    "url": "https://github.com/luciu5/antitrust",
+    "via": ["trade"],
+    "branch": "7634b8c58caa98396f9183fe0fd5a30763cf6f53",
+    "from": "trade"
+  },
+  {
     "package": "coordination",
     "url": "https://github.com/luciu5/coordination",
     "via": ["competitiontoolbox"],
     "branch": "6e5d94be4fbeb5d5544865eed2dbb2b897c31628",
     "from": "competitiontoolbox"
+  },
+  {
+    "package": "coordination",
+    "url": "https://github.com/luciu5/coordination",
+    "via": ["trade"],
+    "branch": "6e5d94be4fbeb5d5544865eed2dbb2b897c31628",
+    "from": "trade"
   },
   {
     "package": "trade",
