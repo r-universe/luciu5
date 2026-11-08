@@ -10,7 +10,7 @@
     "package": "antitrust",
     "url": "https://github.com/luciu5/antitrust",
     "via": ["trade"],
-    "branch": "7634b8c58caa98396f9183fe0fd5a30763cf6f53",
+    "branch": "a941cf145353c1941e906e173d82b05bc199a6bb",
     "from": "trade"
   },
   {
@@ -24,7 +24,7 @@
     "package": "coordination",
     "url": "https://github.com/luciu5/coordination",
     "via": ["trade"],
-    "branch": "6e5d94be4fbeb5d5544865eed2dbb2b897c31628",
+    "branch": "fbb5343042a5b1564927fbe9839e3696e0c5d651",
     "from": "trade"
   },
   {
