@@ -2,13 +2,6 @@
   {
     "package": "antitrust",
     "url": "https://github.com/luciu5/antitrust",
-    "via": ["competitiontoolbox"],
-    "branch": "31c39b2707b532dff4a77c09f51aef0b0d7edfc3",
-    "from": "competitiontoolbox"
-  },
-  {
-    "package": "antitrust",
-    "url": "https://github.com/luciu5/antitrust",
     "via": ["trade"],
     "branch": "a941cf145353c1941e906e173d82b05bc199a6bb",
     "from": "trade"
@@ -16,29 +9,8 @@
   {
     "package": "coordination",
     "url": "https://github.com/luciu5/coordination",
-    "via": ["competitiontoolbox"],
-    "branch": "fbb5343042a5b1564927fbe9839e3696e0c5d651",
-    "from": "competitiontoolbox"
-  },
-  {
-    "package": "coordination",
-    "url": "https://github.com/luciu5/coordination",
     "via": ["trade"],
     "branch": "fbb5343042a5b1564927fbe9839e3696e0c5d651",
     "from": "trade"
-  },
-  {
-    "package": "trade",
-    "url": "https://github.com/luciu5/trade",
-    "via": ["competitiontoolbox"],
-    "branch": "e39914a59b9b2abbf4100558d89117a9909b7dc6",
-    "from": "competitiontoolbox"
-  },
-  {
-    "package": "vertical",
-    "url": "https://github.com/luciu5/vertical",
-    "via": ["competitiontoolbox"],
-    "branch": "4f9c00820d08c68a85f48e44b599c1058cac1023",
-    "from": "competitiontoolbox"
   }
 ]
