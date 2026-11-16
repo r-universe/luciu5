@@ -5,9 +5,6 @@
 [submodule "antitrust"]
 	path = antitrust
 	url = https://github.com/luciu5/antitrust
-[submodule "competitiontoolbox"]
-	path = competitiontoolbox
-	url = https://github.com/luciu5/competitiontoolbox
 [submodule "coordination"]
 	path = coordination
 	url = https://github.com/luciu5/coordination
